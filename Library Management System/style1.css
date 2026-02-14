@@ -1,0 +1,172 @@
+body {
+    font-family: Arial;
+    background-color: #f2f2f2;
+}
+
+h2 {
+    text-align: center;
+    color: #333;
+}
+
+form {
+    width: 300px;
+    margin: auto;
+    background-color: white;
+    padding: 15px;
+    border: 1px solid #ccc;
+}
+
+input {
+    width: 95%;
+    padding: 6px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 6px 12px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+p {
+    text-align: center;
+}
+.back-btn {
+    text-align: center;
+    margin-top: 15px;
+}
+.btn-row button {
+    margin: 0 18px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    width: 300px;
+    margin: auto;
+}
+
+ul li {
+    margin: 10px 0;
+    text-align: center;
+}
+
+ul li a {
+    display: block;
+    padding: 10px;
+    background-color: #007BFF;
+    color: white;
+    text-decoration: none;
+    border: 1px solid #0056b3;
+}
+
+ul li a:hover {
+    background-color: #0056b3;
+}
+
+
+form {
+    width: 300px;
+    margin: auto;
+    background-color: white;
+    padding: 15px;
+    border: 1px solid #ccc;
+}
+
+input, select {
+    width: 95%;
+    padding: 6px;
+    margin-bottom: 10px;
+}
+
+.btn-row {
+    text-align: center;
+}
+
+.btn-row button {
+    margin: 0 10px;
+    padding: 6px 12px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+}
+
+
+
+.back-btn {
+    text-align: center;
+    margin-top: 15px;
+}
+
+
+
+
+form {
+    width: 300px;
+    margin: auto;
+    background-color: white;
+    padding: 15px;
+    border: 1px solid #ccc;
+}
+
+input {
+    width: 95%;
+    padding: 6px;
+    margin-bottom: 10px;
+}
+
+.btn-row {
+    text-align: center;
+}
+
+.btn-row button {
+    margin: 0 10px;
+    padding: 6px 12px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+}
+
+
+textarea {
+    width: 95%;
+    padding: 6px;
+    margin-bottom: 10px;
+}
+
+
+
+
+
+table {
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+th, td {
+    border: 1px solid #999;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #ddd;
+}
+
+.back-btn {
+    width: 80%;
+    margin: 20px auto;
+    text-align: center;
+}
+
+
+
+
+
+
